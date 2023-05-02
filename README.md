@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kunal Titare</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif”/>
+<img align='right' alt=“coding” width='400' height='200' src='https://www.lambdatest.com/resources/images/news24.gif'/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal1309&label=Profile%20views&color=0e75b6&style=flat" alt="kunal1309" /> </p>
+- 🌱 I’m currently learning ==> **DSA**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal1309" alt="kunal1309" /></a> </p>
+- 💬 Ask me about ==>  **ReactJS, HTML, JavaScript, CSS, Bootstrap**
 
-- 🌱 I’m currently learning **DSA**
+- 📫 How to reach me ==>  **titarekunal@gmail.com / +916202745560**
 
-- 💬 Ask me about **ReactJS, HTML, JavaScript, CSS, Bootstrap**
-
-- 📫 How to reach me **titarekunal@gmail.com / +916202745560**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
