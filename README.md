@@ -1,3 +1,4 @@
+![logo](https://github.com/Kunal1309/Kunal1309/blob/main/E-Books%20Tablets%20GoDaddy%20Store%20Image.png)
 <h1 align="center">Hi 👋, I'm Kunal Titare</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
