@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning ==> **DSA**
 
-- 💬 Ask me about ==>  **ReactJS, HTML, JavaScript, CSS, Bootstrap**
+- 💬 Ask me about ==>  **ReactJS, HTML, JavaScript, CSS, NodeJs, ExpressJs, MongoDB**
 
-- 📫 How to reach me ==>  **titarekunal@gmail.com / +916202745560**
+- 📫 How to reach me ==>  **titarekunal@gmail.com / +916202745560 / https://www.linkedin.com/in/kunal-titare**
 
 <p align="left">
 </p>
